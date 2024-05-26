@@ -3,7 +3,6 @@
 
 
 ### My stats  ⭐
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanKRB&show_icons=true)](https://github.com/JuanKRB/github-readme-stats&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanKRB)](https://github.com/JuanKRB/github-readme-stats)
 <!--
