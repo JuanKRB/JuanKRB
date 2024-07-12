@@ -1,9 +1,9 @@
-### Hi, I'm Juan Carlos 👋
+<!--### Hi, I'm Juan Carlos 👋
 
 ### My stats  ⭐
 
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanKRB)](https://github.com/JuanKRB/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanKRB)](https://github.com/JuanKRB/github-readme-stats)
+
 **JuanKRB/JuanKRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
