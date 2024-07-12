@@ -1,4 +1,5 @@
-<!--### Hi, I'm Juan Carlos 👋
+<!--
+### Hi, I'm Juan Carlos 👋
 
 ### My stats  ⭐
 
